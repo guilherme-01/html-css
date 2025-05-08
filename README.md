@@ -1,2 +1,2 @@
 # html-css
- Meus exercícios e desafios do curso de HTML e CSS
+ My exercises and challenges from the HTML and CSS course
